@@ -1,2 +1,2 @@
-# dockless-scooter-atx
-Interactive map of dockless scooter rides in Austin.
+# traffic-incidents-atx
+Interactive map of traffic incidents in Austin.
